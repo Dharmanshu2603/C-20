@@ -1,2 +1,2 @@
-# C-20
-By~Dharmanshu Kumar
+# p5.play-boilerplate
+Boiler plate for p5.play
